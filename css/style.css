@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Poppins:wght@300;400;600;700&family=Roboto:wght@100;300;400;500&display=swap');
+
+/* global css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #E5E5E5;
+}
+
+/* Header css */
+
+/* navbar css */
+
+nav h3 {
+    color: #3E3E3E;
+}
+
+.nav-link {
+    color: #3E3E3E;
+    font-size: 16px;
+}
